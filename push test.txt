@@ -13,3 +13,5 @@ git remote add origin <your-repo-url>
 # Push the changes to the remote repository (main branch)
 git branch -M main
 git push -u origin main
+
+check if the reverse works too
